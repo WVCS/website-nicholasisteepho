@@ -1,3 +1,15 @@
-body {
+h2 {
+  color: red;
+  text-align: center;
+}
 
+body {
+  background-color: yellow;
+}
+
+img {
+  border: dashed lightblue 8px;
+}
+img:hover {
+  width: 110%;
 }
